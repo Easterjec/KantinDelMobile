@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.AkunFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/profile"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/ic_namabulat_foreground" />
+
+            <Button
+                android:id="@+id/btnRiwayat"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="20pt"
+                android:text="@string/riwayat"
+                android:textSize="8pt" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nama"
+                    android:textColor="@color/black"
+                    android:textSize="10pt" />
+
+                <TextView
+                    android:id="@+id/text_nama"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nama"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10pt" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/email"
+                    android:textColor="@color/black"
+                    android:textSize="10pt" />
+
+                <TextView
+                    android:id="@+id/text_email"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/email"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10pt" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nomor_handphone"
+                    android:textColor="@color/black"
+                    android:textSize="10pt" />
+
+                <TextView
+                    android:id="@+id/text_tlp"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nomor_handphone"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10pt" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/no_ktp"
+                    android:textColor="@color/black"
+                    android:textSize="10pt" />
+
+                <TextView
+                    android:id="@+id/text_noktp"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/no_ktp"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10pt" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnKeluar"
+                android:layout_width="383dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/keluar"
+                android:textSize="8pt" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

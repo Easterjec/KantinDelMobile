@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/drawable/bg_btn_beli.xml" value="0.1" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/drawable/ic_shooping_foreground.xml" value="0.1" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_daftar.xml" value="0.22" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_detail_minuman.xml" value="0.22" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_detail_snack.xml" value="0.22" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_keranjang_makanan.xml" value="0.22" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_keranjang_minuman.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_keranjang_snack.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_main.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_makanan.xml" value="0.4466666666666667" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_masuk.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_minuman.xml" value="0.3333333333333333" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_pemesanan_selesai.xml" value="0.3333333333333333" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_pengiriman_makanan.xml" value="0.22" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_pengiriman_minuman.xml" value="0.16666666666666666" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_pengiriman_snack.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_pulsa.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_riwayat.xml" value="0.16666666666666666" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_riwayat_snack_detail.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/activity_snack.xml" value="0.22" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/fragment_akun.xml" value="0.16666666666666666" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/fragment_beranda.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/fragment_keranjang.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/keranjang_makanan.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/keranjangggg.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/keranjangsnack.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/menu.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/pulsa.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/riwayat.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/riwayat_snack.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/slider.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/snack.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/layout/toolbar_custom.xml" value="0.16145833333333334" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/mipmap-anydpi-v26/ic_launcher2.webp.xml" value="0.1" />
+        <entry key="..\:/Semester4/PAM/KantinITDEL/app/src/main/res/mipmap-xhdpi/ic_launcher2.webp.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">KantinITDEL</string>
+    <string name="beranda">Beranda</string>
+    <string name="akun">Akun</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cari_produk_di_sini">Cari Produk Disini</string>
+    <string name="makanan">Makanan</string>
+    <string name="minuman">Minuman</string>
+    <string name="snack">Snack</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="harga_makanan">Harga Makanan</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="kantin_dan_koperasi_it_del">Kantin dan Koperasi IT Del</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="keluar">Keluar</string>
+    <string name="title_activity_masuk">MasukActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="nama">Nama</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="nomor_ktp">Nomor KTP</string>
+    <string name="no_ktp">No KTP</string>
+    <string name="profile">PROFILE</string>
+    <string name="selengkapnya">Selengkapnya</string>
+    <string name="srinesia_gmail_com">srinesia@gmail.com</string>
+    <string name="pembelian_dalam_jumlah_besar_hubungi">Pembelian dalam jumlah besar hubungi</string>
+    <string name="daftar_makanan">Daftar Makanan</string>
+    <string name="pulsa">Pulsa</string>
+    <string name="nominal">Nominal</string>
+    <string name="harga_pulsa">Harga Pulsa</string>
+    <string name="daftar_snack">Daftar Snack</string>
+    <string name="daftar_pulsa">Daftar Pulsa</string>
+    <string name="keranjang_makanan">Keranjang Makanan</string>
+    <string name="keranjang_snack">Keranjang Snack</string>
+    <string name="keranjang_minuman">Keranjang Minuman</string>
+    <string name="bayar">Bayar</string>
+    <string name="beli_sekarang">Beli Sekarang</string>
+    <string name="daftar_minuman">Daftar Minuman</string>
+    <string name="nama_penerima">Nama Penerima :</string>
+    <string name="nomor_telephone_penerima">Nomor Telephone Penerima :</string>
+    <string name="catatan">Catatan :</string>
+    <string name="total_belanja">Total Belanja</string>
+    <string name="total_pembayaran">Total Pembayaran :</string>
+    <string name="silahkan_masukkan_total_pembayaran_sesuai_total_belanja">Silahkan masukkan total pembayaran sesuai total belanja</string>
+    <string name="pesan">Pesan</string>
+    <string name="riwayat_pemesanan_snack">Riwayat Pemesanan Snack</string>
+    <string name="riwayat_pemesanan_minuman">Riwayat Pemesanan Minuman</string>
+    <string name="riwayat_pemesanan_makanan">Riwayat Pemesanan Makanan</string>
+    <string name="riwayat">Riwayat</string>
+</resources>

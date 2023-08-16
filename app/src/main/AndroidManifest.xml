@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mentari.kantinitdel">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KantinITDEL"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="m">
+        <activity
+            android:name=".activity.RiwayatSnackDetail"
+            android:exported="false" />
+        <activity
+            android:name=".activity.RiwayatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.PengirimanMakananActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.PengirimanMinumanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.PemesananSelesaiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.PengirimanSnackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.KeranjangMakananActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.KeranjangSnackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.KeranjangMinumanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.PulsaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SnackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MinumanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MakananActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.DetailActivityMinuman"
+            android:exported="false" />
+        <activity
+            android:name=".activity.DaftarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MasukActivity"
+            android:exported="false"
+            android:label="@string/title_activity_masuk"/>
+            //android:theme="@style/Theme.ProyekPAM.NoActionBar" />
+        <activity
+            android:name=".activity.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.DetailActivitySnack" />
+        <activity android:name=".activity.KeranjangMakananActivitys" />
+    </application>
+
+</manifest>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/beranda"
+        android:title="@string/beranda"
+        android:icon="@drawable/ic_beranda_foreground"/>
+    <item
+        android:id="@+id/keranjang"
+        android:title="@string/keranjang"
+        android:icon="@drawable/ic_keranjang_foreground"/>
+    <item
+        android:id="@+id/akun"
+        android:title="@string/akun"
+        android:icon="@drawable/ic_akun_foreground"/>
+</menu>
